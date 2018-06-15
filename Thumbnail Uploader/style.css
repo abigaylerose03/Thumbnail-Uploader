@@ -1,0 +1,22 @@
+
+
+.drop-area {
+  width: 100px;
+  height: 25px;
+  border: 1px solid #999;
+  border-radius: 3px;
+  text-align: center;
+  text-decoration: bold;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#thumbnail img {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+}
+
+canvas {
+  border: 1px solid red;
+} 
